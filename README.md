@@ -2,7 +2,7 @@
 
 ## Code Explanation
 
-#### I have created several helper function to organize the data for easier use later. Specifically, the functions
+I have created several helper function to organize the data for easier use later. Specifically, the functions
 InitData, InitialAnas, jumbleCombinations, and findLetters. 
 
 ### InitData
@@ -83,14 +83,14 @@ This did not produce the correct answer in the 10 lowest frequency scored phrase
  ['rash', 'decision', 'soeindic', 1124], ['shia', 'consider', 'sroendic', 1520],
  ['shai', 'consider', 'sroendic', 1520], ['hear', 'cnidosis', 'ssoindic', 1724]]
 
-The correct answer was found within the top 10, ['rash', 'decision', 'soeindic', 1124].
+The correct answer "rash decision" was found within the top 10, ['rash', 'decision', 'soeindic', 1124].
 
 ### Input-4: jumbleSolver.py knidy-1-2, legia-1-3, cronee-2-4, tuvedo-1-6, 8
 
 ### Output-4:
 [['toddling', 0], ['addition', 1092]]
 
-The correct answer was found, ['addition', 1092].
+The correct answer "addition" was found, ['addition', 1092].
 
 ### Input-5: jumbleSolver.py gyrint-1-2-4, drivet-3-6, snamea-1-6, ceedit-2-4-6, sowdah-1-4, elchek-2-6, 6-8
 
@@ -102,4 +102,4 @@ The correct answer was found, ['addition', 1092].
  ['served', 'nettiest', 'titntsee', 2423], ['denver', 'testiest', 'titstsee', 3230],
  ['tested', 'servient', 'rivntsee', 3366], ['tested', 'sirvente', 'rivntsee', 3366]]
 
-The correct answer was found within the top 10, ['vested', 'interest', 'ritntsee', 652].
+The correct answer "vested interest" was found within the top 10, ['vested', 'interest', 'ritntsee', 652].
