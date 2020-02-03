@@ -3,7 +3,7 @@
 ## Code Explanation
 
 #### I have created several helper function to organize the data for easier use later. Specifically, the functions
-#### InitData, InitialAnas, jumbleCombinations, and findLetters. 
+InitData, InitialAnas, jumbleCombinations, and findLetters. 
 
 ### InitData
 
